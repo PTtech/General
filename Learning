@@ -76,5 +76,73 @@ Apple regularly releases both major and minor updates to the iOS platform. Major
 It's essential for app developers to ensure their applications are compatible with both major and minor iOS versions to provide a smooth user experience and take advantage of the latest features and improvements offered by Apple.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Objective:
+The purpose of this Standard Operating Procedure (SOP) is to establish clear guidelines for iOS version requirements to ensure the compatibility and support of our application with different iOS versions. By adhering to this SOP, we aim to provide a seamless user experience, enhance security, and take advantage of the latest features offered by Apple.
+
+Scope:
+This SOP applies to all development, quality assurance, and IT teams responsible for maintaining and updating our application on the iOS platform.
+
+Responsibilities:
+
+Development Team:
+
+Monitor and analyze new iOS releases from Apple.
+Implement necessary changes to ensure the application's compatibility with the supported iOS versions.
+Conduct thorough testing on each supported iOS version to identify and address any issues.
+Quality Assurance Team:
+
+Verify the compatibility of the application with supported iOS versions during the testing phase.
+Report any compatibility issues to the Development Team for resolution.
+Validate that the application adheres to Apple's guidelines for each iOS release.
+IT Team:
+
+Implement updates to the Mobile Device Management (MDM) configuration based on the mandated minimum build version.
+Procedure:
+
+Alignment with Apple iOS Releases:
+
+Our application will align with the major version of Apple iOS releases.
+Major version updates will be tracked and considered for compatibility and support.
+Supported iOS Versions:
+
+We will support the following iOS versions:
+(a) The current iOS version and the one prior version for the iOS major version.
+(b) The minor version of the major version's latest minor version, subject to case-by-case evaluation (details in the following section).
+Compatibility Assessment for Minor Versions:
+
+For minor versions of the major iOS release, the Development Team will assess compatibility on a case-by-case basis.
+The assessment will consider factors such as feature changes, bug fixes, and potential impacts on our application's functionality.
+Minimum Build Version Mandate:
+
+The minimum build version will be mandated based on the following conditions:
+(1) Case-by-case Analysis: Each iOS version will be evaluated individually to determine the minimum build version requirement.
+(2) Major Vulnerabilities Impact: If significant vulnerabilities are found in an iOS version, and the impact is deemed major, upgrading to a more secure version will be mandated.
+(3) Agent Application Support: The minimum build version will be determined to ensure all agent applications are fully supported without any adverse effects.
+(4) Current Usage and Impact Analysis: The current usage of specific iOS versions will be analyzed to assess the impact of mandating an upgrade.
+Notification and Grace Period:
+
+When a new minimum build version is mandated, a notification will be sent to all agents with a 60-day grace period to perform the necessary upgrades.
+The notification will contain details of the mandate and upgrade instructions.
+Updating MDM Configuration:
+
+After the 60-day grace period, the IT Team will update the MDM configuration as follows:
+(i) The MDM configuration will reflect the least supported minimum build version.
+Agents using older versions beyond this point will not be able to access the application.
+Communication:
+
+Any changes to iOS version requirements will be communicated promptly to all relevant teams.
+Regular updates on major iOS releases and their impact on our application will be shared with stakeholders.
+Documentation:
+
+The details of supported iOS versions, compatibility assessments, mandated minimum build versions, and upgrade notifications will be documented for reference.
+Review and Revision:
+
+This SOP shall be reviewed periodically by the management team to ensure it aligns with the latest iOS development practices and industry standards.
+Any necessary revisions to the SOP shall be made to accommodate changes in iOS version requirements.
+Conclusion:
+Adhering to this SOP will ensure that our application remains compatible with the latest iOS versions, offering a smooth and secure user experience for all agents. The implementation of this procedure will enable us to leverage new iOS features and enhancements while maintaining the reliability and performance of our application.
+
 
 
