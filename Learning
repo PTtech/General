@@ -1,0 +1,64 @@
+We hope this message finds you well. As part of our commitment to providing a secure and seamless user experience, we are updating our iOS version requirements and upgrade policy. Please take a moment to review the following guidelines:
+
+Alignment with Apple iOS Releases: We will align our application with the latest major version released by Apple.
+
+Supported iOS Versions: We will support the current iOS version and the previous major version. This means our application will be compatible with the latest iOS release and the one preceding it.
+
+Minimum Build Version Mandate: The minimum build version will be mandated based on careful analysis using the following conditions:
+
+(1) Case-by-case Analysis: Each iOS version will be evaluated on a case-by-case basis, considering various factors.
+(2) Major Vulnerabilities Impact: If significant vulnerabilities are found in an iOS version, and the impact is deemed major, we will mandate upgrading to a more secure version.
+(3) Agent Application Support: The minimum build version will be determined based on ensuring all agent applications are fully supported, without any adverse effects.
+(4) Current Usage and Impact Analysis: We will analyze the current usage of specific iOS versions to assess the overall impact of mandating an upgrade.
+Notification and Grace Period: When a new minimum build version is mandated, we will notify all agents with ample time to upgrade. You will receive a notification with the mandate details and a 60-day grace period to perform the necessary upgrades.
+
+Updating MDM Configuration: After the 60-day grace period, we will update the Mobile Device Management (MDM) configuration as follows:
+
+(i) Least Supported Minimum Build Version: The MDM configuration will reflect the least supported minimum build version. Agents using older versions beyond this point will be unable to access the application.
+We understand the importance of having a secure and reliable application to carry out your tasks efficiently. These version requirements and upgrade measures are implemented to ensure a smooth and secure experience for all agents.
+
+If you have any questions or concerns about this update, please don't hesitate to reach out to our support team. Thank you for your cooperation in maintaining a secure working environment.
+
+
+
+Objective:
+
+The purpose of this document is to outline the iOS version requirements and upgrade policy for our application. By adhering to these guidelines, we aim to ensure a secure and optimal user experience for all agents.
+
+iOS Version Requirements and Upgrade Policy:
+
+Alignment with Apple iOS Releases:
+
+Our application will align with the latest major version released by Apple for iOS.
+Supported iOS Versions:
+
+We will support the current iOS version and the previous major version. This means our application will be compatible with the latest iOS release and the one preceding it.
+Minimum Build Version Mandate:
+
+The minimum build version will be mandated based on the following conditions:
+Case-by-case Analysis: Each iOS version will be evaluated on a case-by-case basis, considering various factors.
+Major Vulnerabilities Impact: If significant vulnerabilities are found in an iOS version, and the impact is deemed major, we will mandate upgrading to a more secure version.
+Agent Application Support: The minimum build version will be determined based on ensuring all agent applications are fully supported, without any adverse effects.
+Current Usage and Impact Analysis: We will analyze the current usage of specific iOS versions to assess the overall impact of mandating an upgrade.
+Notification and Grace Period:
+
+When a new minimum build version is mandated, we will notify all agents to provide sufficient time for upgrades.
+Agents will receive a notification with the mandate details and a 60-day grace period to perform the necessary upgrades.
+Updating MDM Configuration:
+
+After the 60-day grace period, we will update the Mobile Device Management (MDM) configuration as follows:
+Least Supported Minimum Build Version: The MDM configuration will reflect the least supported minimum build version.
+Agents using older versions beyond this point will be unable to access the application.
+Benefits:
+
+By aligning with the latest iOS version, agents will have access to new features and improvements introduced by Apple.
+Supporting the current and one prior iOS version ensures compatibility and a smooth experience for most users.
+Mandating a minimum build version based on careful analysis safeguards against potential vulnerabilities and security risks.
+The 60-day grace period allows sufficient time for agents to upgrade their devices and maintain access to the application.
+Conclusion:
+
+We value the security and user experience of our agents, and these iOS version requirements and upgrade policies are put in place to provide a secure and efficient working environment. Should you have any questions or require further assistance, please reach out to our support team.
+
+[Your Company/Organization Name]
+
+[Date]
