@@ -57,8 +57,24 @@ Mandating a minimum build version based on careful analysis safeguards against p
 The 60-day grace period allows sufficient time for agents to upgrade their devices and maintain access to the application.
 Conclusion:
 
-We value the security and user experience of our agents, and these iOS version requirements and upgrade policies are put in place to provide a secure and efficient working environment. Should you have any questions or require further assistance, please reach out to our support team.
+We value the security and user experience of our agents, and these iOS version requirements and upgrade policies are put in place to provide a secure and efficient working environment. Should you have any questions or require further assistance, please reach out to our support t
 
-[Your Company/Organization Name]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Date]
+Major iOS Version:
+
+A major iOS version represents a significant update to the operating system and is identified by a whole number change in the version (e.g., iOS 14 to iOS 15).
+Major updates usually introduce new features, design changes, and improvements to the overall user experience.
+They may also bring enhancements to security, performance, and compatibility with newer hardware.
+Minor iOS Version:
+
+A minor iOS version, on the other hand, is identified by the decimal part of the version number (e.g., iOS 15.1 to iOS 15.2).
+Minor updates typically address bug fixes, performance optimizations, and minor feature enhancements.
+They are generally released to improve the stability and functionality of the operating system without introducing major changes.
+Apple regularly releases both major and minor updates to the iOS platform. Major versions are usually announced and showcased at Apple's annual Worldwide Developers Conference (WWDC) in June, while minor updates are rolled out throughout the year as needed to address issues and add small improvements.
+
+It's essential for app developers to ensure their applications are compatible with both major and minor iOS versions to provide a smooth user experience and take advantage of the latest features and improvements offered by Apple.
+
+
+
+
